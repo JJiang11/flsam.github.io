@@ -23,6 +23,22 @@ body {
     opacity: 0.8;
 }
 
+.prof-img {
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    display: block;
+    padding: 20px;
+}
+
+.prof-header {
+    text-align: center;
+}
+
+.page-header {
+    text-align: center;
+}
+
 /* Home Page Carousel */
 
 header.carousel {
